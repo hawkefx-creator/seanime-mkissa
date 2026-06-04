@@ -1,0 +1,12 @@
+{
+  "id": "allanime-mkissa",
+  "name": "MKissa (AllAnime)",
+  "description": "Stream anime via AllAnime API - same source as MKissa",
+  "manifestURI": "https://raw.githubusercontent.com/hawkefx-creator/seanime-mkissa/main/manifest.json",
+  "version": "1.0.0",
+  "author": "HawkeFXVoid",
+  "type": "online-streaming-provider",
+  "language": "javascript",
+  "lang": "en",
+  "payloadURI": "https://raw.githubusercontent.com/hawkefx-creator/seanime-mkissa/main/provider.js"
+}
