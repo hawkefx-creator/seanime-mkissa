@@ -5,7 +5,7 @@
   "manifestURI": "https://raw.githubusercontent.com/hawkefx-creator/seanime-mkissa/main/manifest.json",
   "version": "1.0.0",
   "author": "HawkeFXVoid",
-  "type": "online-streaming-provider",
+  "type": "anime-streaming-provider",
   "language": "javascript",
   "lang": "en",
   "payloadURI": "https://raw.githubusercontent.com/hawkefx-creator/seanime-mkissa/main/provider.js"
